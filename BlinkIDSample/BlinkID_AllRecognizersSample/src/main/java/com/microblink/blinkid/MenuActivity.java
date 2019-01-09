@@ -1198,6 +1198,11 @@ public class MenuActivity extends BaseMenuActivity {
                 barcode.setScanUpca(true);
                 barcode.setScanUpce(true);
 
+                // please contact us to obtain valid license key for the aztec recognizer
+                // https://microblink.com/en/contact-us
+                // this license key has expired, because of that you will get '*' characters in aztec result
+                barcode.setManateeLicenseKey("jp7X3DD+IG1iNzljvwkwVL7L364g9NCzTUq4lGC/vdc=");
+
                 BarcodeUISettings activitySettings = new BarcodeUISettings(prepareRecognizerBundle(barcode));
                 activitySettings.setShowDialogAfterScan(false);
 
