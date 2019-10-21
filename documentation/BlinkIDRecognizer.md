@@ -2516,5 +2516,6 @@ The tables below represent scanning results for each document in each country su
 <tr> <td>Full name</td> <td>Yes</td><tr>
 <tr> <td>Nationality</td> <td>Yes</td><tr>
 <tr> <td>Place of birth</td> <td>Yes</td><tr>
-<tr> <td>Sex</td> <td>Yes</td><tr>
+<tr> <td>Sex</td> <td>Yes</td>
+</tr>
 </table>
