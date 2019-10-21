@@ -1,3 +1,8 @@
+The tables below represent scanning results for each document in each country supported in BlinkID v5. The fields marked as Always Present are mandatory on all document versions and will always be a part of the result set. The ones marked as not always present will be returned only if they exist on the specific document being scanned. For USDL, the N/A stands for those fields for which it's not certain whether or not they're always present on all document versions.
+
+<br>
+<br>
+
 <table><tr> <th colspan=2>ALBANIA ID - Front</th> </tr> <tr><th>Field</th><th>Always Present</th> </tr>
 <tr> <td>Date of birth</td> <td>Yes</td><tr>
 <tr> <td>Date of expiry</td> <td>Yes</td><tr>
