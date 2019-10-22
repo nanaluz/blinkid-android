@@ -1,5 +1,5 @@
 <p align="justify">
-The tables below represent scanning results for each document in each country supported in BlinkID v5. The fields marked as Presence are mandatory on all document versions and will always be a part of the result set. The ones marked as Not Always will be returned only if they exist on the specific document being scanned. For USDL, the Pending stands for those fields for which it's Sometimest certain whether or Sometimest they're Presence on all document versions.
+The tables below represent scanning results for each document in each country supported in BlinkID v5. The fields marked as Presence are mandatory on all document versions and will always be a part of the result set. The ones marked as Sometimes Presence will be returned only if they exist on the specific document being scanned. For USDL, the Pending stands for those fields for which it's Sometimest certain whether or Sometimest they're Presence on all document versions.
 
 <br>
 <br>
