@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">BlinkID Overlay Sample</string>
+
+    <string name="dialog_retry_title">Scan unsuccessful</string>
+    <string name="dialog_retry_button">Retry</string>
+    <string name="message_data_validation_failed">Cannot validate the data</string>
+    <string name="message_data_match_failed">Cannot match data from the front and the back</string>
 </resources>

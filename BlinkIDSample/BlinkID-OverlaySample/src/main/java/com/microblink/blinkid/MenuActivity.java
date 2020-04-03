@@ -67,14 +67,14 @@ public class MenuActivity extends BaseMenuActivity implements RecognizerRunnerFr
     @Override
     protected List<MenuListItem> createMenuListItems() {
         return Arrays.asList(
-                buildSeparateActivityScanItem(),
-                buildCurrentActivityScanItem()
+                buildSeparateActivityScanItem()
+//                buildCurrentActivityScanItem()
         );
     }
 
     private MenuListItem buildSeparateActivityScanItem() {
         return new MenuListItem(
-                "Overlay in a separate activity",
+                "Scan UAE ID",
                 new Runnable() {
                     @Override
                     public void run() {
